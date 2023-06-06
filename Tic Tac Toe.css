@@ -1,0 +1,78 @@
+h1 {
+    text-align: center;
+    background-color: blue;
+    color: pink;
+    font-weight: bold;
+    border: 3px double yellow;
+}
+
+h2 {
+    text-align: center;
+    color: green;
+    font-weight: 400;
+    text-decoration: underline;
+    font-size:30px;
+}
+
+#Cross {
+    border-radius: 5px;
+    color: goldenrod;
+    background-color: steelblue;
+    width: 100px;
+    height: 50px;
+    padding: 3px;
+ font-size:20px;
+font-weight:bold;
+border: 2px solid black;
+}
+
+#Circle {
+    border-radius: 5px;
+    color: goldenrod;
+    background-color: rgb(70, 180, 72);
+    width: 100px;
+    height: 50px;
+    padding: 3px;
+    margin-left:10px;
+    font-size:20px;
+    font-weight:bold;
+    border: 2px solid black;
+}
+body{
+    text-align:center;
+}
+table{
+    margin-top:40px;
+    margin-left:auto;
+    margin-right:auto;
+    border:5px solid green;
+    color:black;
+}
+
+
+#FirstRow{
+    background:rgb(200,40,200);
+}
+#SecondRow{
+    background:rgb(40, 200, 117);
+}
+#ThirdRow{
+    background:rgb(40, 141, 200);
+}
+p{
+    font-size:40px;
+    font-weight:bold;
+}
+td{
+    padding:30px;
+}
+
+button{
+    background:rgb(191, 153, 16);
+    margin:12px 0;
+    border-radius:6px;
+    width:95px;
+    height:50px;
+    font-size:20px;
+    font-weight:bold;
+}
